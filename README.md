@@ -1,2 +1,4 @@
 # Eden3D-Network
-Network to coordinate participants to build products globally. Paid in Sats. 
+This is a centralized Network to coordinate participants to build products globally. All workers are paid Sats. [Distributed model TBD].
+
+
