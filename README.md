@@ -11,7 +11,7 @@ This is a centralized Network to coordinate participants to build products globa
 # FAQ
 Q: What is the Eden3D Network?
 ---
-A: BeingDisplay is a 3D printed case, holding a single-board computer with an attached hologram-like 3D display.
+A: Eden3D Network is a community-driven webapp to coordinate users, designers and 3D printers together to build great things in a decentralized manner. All are paid in Sats.
 
 Q: What does this Network do?
 ---
