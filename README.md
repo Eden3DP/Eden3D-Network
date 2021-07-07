@@ -15,7 +15,7 @@ A: Eden3D Network is a community-driven webapp to coordinate users, designers an
 
 Q: What does this Network do?
 ---
-A: This hologram-like device is running a full bitcoin & lightning node with displaying, as a hologram, any images videos and CAD files that you are preparing to 3D print. This device is designed to be a hologram display personal server accompanied with your 3D printer.
+A: Our network assists in coordinating users, 3D designers and 3D printers together in one place, where users can find designers and/or printers to create and build their requests.
 
 Q: What is the purpose of the Eden3D Network?
 ---
