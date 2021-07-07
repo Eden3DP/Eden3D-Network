@@ -27,6 +27,7 @@ Q: How stupid. Why would I want to use this Network when there is other sites to
 A: Why wouldn't you want to use the Eden3D Network to coordinate with other designers & printers to build your idea, then locally pick up the part or have the part shipped to you, aying for the work in Sats? This was designed by us, for us. We are simply sharing it with the world and excited to recieve any feedback to make the proper improvments where necessary in upcoming versions. We're most excited for the self-hosted distributed network option to download in the coming months.  Thank you for any constructive criticism and feedback. It's greatly appreciated. 
 
 
+
 ---------------------------------------------------------
 
 
