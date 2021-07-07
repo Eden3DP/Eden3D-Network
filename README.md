@@ -19,9 +19,8 @@ A: Our network assists in coordinating users, 3D designers and 3D printers toget
 
 Q: What is the purpose of the Eden3D Network?
 ---
-A: The main purpose of this device is to act as a personal server, accompaning your 3D printer which features a 3D hologram-like display, showing you a "print preview" mode, in full 3D-like display before you begin to 3D print said object. This also acts as a full bitcoin & lightning node to connect to. 
+A: The main purpose of the Eden3D Network is to bridge the skills needed to help bring ideas to life. We wanted a place where people can submit a request, and that request is fulfilled by either being designed and/or printed, therefore digitally delivered, or if 3D printed the product can be shipped to you or picked up locally. 
 
-[In future release versions, this microSD card will become more useful with on-device features, without having to remove the hard drive.]
 
 Q: How stupid. Why would I want to use this Network when there is other sites to use on the web!?
 ---
