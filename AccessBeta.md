@@ -1,5 +1,5 @@
-# BeingDisplay
-Hardware: This is a 3D Hologram-like Display, 3D printed node case
+# Beta Eden3D Network
+This is a guide to access the beta Eden3D Network
 
 [images uploaded soon]
 
