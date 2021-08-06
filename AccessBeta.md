@@ -3,6 +3,7 @@ This is a guide to access the beta Eden3D Network
 
 [images uploaded soon]
 
+Tor site: 
 
 
 
